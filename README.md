@@ -2,8 +2,7 @@
 # Dicee 🎲
 A 2 dice flutter app
 
-
-![Finished App](assets/dicee.gif | width=300px)
+<img src="asset/dice.gif" width="100" height="100">
 
 ## Contributor
 Mansi Jain
